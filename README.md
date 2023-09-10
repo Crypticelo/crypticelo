@@ -23,7 +23,7 @@
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![ocaml](https://img.shields.io/badge/ocaml-black?style=flat-square&logo=ocaml)
-![csharp](https://img.shields.io/badge/c#-black?style=flat-square&logo=csharp)
+![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=c#)
 ![dart](https://img.shields.io/badge/dart-black?style=flat-square&logo=dart)
 ![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
 ![assembly](https://img.shields.io/badge/assembly-black?style=flat-square&logo=assemblyscript)
