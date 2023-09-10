@@ -22,7 +22,11 @@
 ![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
-![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
+![ocaml](https://img.shields.io/badge/ocaml-black?style=flat-square&logo=ocaml)
+![csharp](https://img.shields.io/badge/c#-black?style=flat-square&logo=csharp)
+![dart](https://img.shields.io/badge/dart-black?style=flat-square&logo=dart)
+![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
+![assembly](https://img.shields.io/badge/assembly-black?style=flat-square&logo=assemblyscript)
 
 ### Technologies & Frameworks
 
@@ -71,7 +75,6 @@
 ![gitkraken](https://img.shields.io/badge/gitkraken-black?style=flat-square&logo=gitkraken)
 ![bitwarden](https://img.shields.io/badge/bitwarden-black?style=flat-square&logo=bitwarden&logoColor=175DDC)
 ![wordpress](https://img.shields.io/badge/wordpress-black?style=flat-square&logo=wordpress)
-![joomla](https://img.shields.io/badge/joomla-black?style=flat-square&logo=joomla)
 
 ## ⚡ GitHub Stats
 
