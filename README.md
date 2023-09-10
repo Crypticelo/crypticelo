@@ -32,6 +32,7 @@
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
 ![quarkus](https://img.shields.io/badge/quarkus-black?style=flat-square&logo=quarkus)
 ![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
+![springsecurity](https://img.shields.io/badge/springsecurity-black?style=flat-square&logo=springsecurity)
 ![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
 ![jakarta](https://img.shields.io/badge/jakarta-black?style=flat-square&logo=jakarta)
 ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
@@ -55,6 +56,7 @@
 ![cardano](https://img.shields.io/badge/cardano-black?style=flat-square&logo=cardano)
 ![jquery](https://img.shields.io/badge/jquery-black?style=flat-square&logo=jquery)
 ![junit5](https://img.shields.io/badge/junit5-black?style=flat-square&logo=junit5)
+![sass](https://img.shields.io/badge/sass-black?style=flat-square&logo=sass)
 ![adobexd](https://img.shields.io/badge/adobexd-black?style=flat-square&logo=adobexd)
 
 
@@ -63,6 +65,7 @@
 ![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
 ![clion](https://img.shields.io/badge/clion-black?style=flat-square&logo=clion)
+![pycharm](https://img.shields.io/badge/pycharm-black?style=flat-square&logo=pycharm)
 ![datagrip](https://img.shields.io/badge/datagrip-black?style=flat-square&logo=datagrip&logoColor=28D28D)
 ![outlook](https://custom-icon-badges.herokuapp.com/badge/outlook-black.svg?logo=outlook&logoColor=blue&style=flat-square)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
@@ -81,8 +84,11 @@
 ![android](https://img.shields.io/badge/android-black?style=flat-square&logo=android)
 ![jira](https://img.shields.io/badge/jira-black?style=flat-square&logo=jira)
 ![bitbucket](https://img.shields.io/badge/bitbucket-black?style=flat-square&logo=bitbucket)
+![slack](https://img.shields.io/badge/slack-black?style=flat-square&logo=slack)
 ![gitkraken](https://img.shields.io/badge/gitkraken-black?style=flat-square&logo=gitkraken)
 ![bitwarden](https://img.shields.io/badge/bitwarden-black?style=flat-square&logo=bitwarden&logoColor=175DDC)
+![latex](https://img.shields.io/badge/latex-black?style=flat-square&logo=latex)
+![nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx)
 ![wordpress](https://img.shields.io/badge/wordpress-black?style=flat-square&logo=wordpress)
 
 ## ⚡ GitHub Stats
