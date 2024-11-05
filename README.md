@@ -33,7 +33,6 @@
 ![springsecurity](https://img.shields.io/badge/springsecurity-black?style=flat-square&logo=springsecurity)
 ![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
 ![jakarta](https://img.shields.io/badge/jakarta-black?style=flat-square&logo=jakarta)
-![jpa](https://img.shields.io/badge/jpa?style=flat-square&logo=jpa)
 ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
