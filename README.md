@@ -26,7 +26,6 @@
 ![assembly](https://img.shields.io/badge/assembly-black?style=flat-square&logo=assemblyscript)
 
 ### Technologies & Frameworks
-
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
 ![quarkus](https://img.shields.io/badge/quarkus-black?style=flat-square&logo=quarkus)
 ![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
@@ -57,7 +56,16 @@
 ![junit5](https://img.shields.io/badge/junit5-black?style=flat-square&logo=junit5)
 ![sass](https://img.shields.io/badge/sass-black?style=flat-square&logo=sass)
 ![adobexd](https://img.shields.io/badge/adobexd-black?style=flat-square&logo=adobexd)
-
+![jpa](https://img.shields.io/badge/jpa-black?style=flat-square&logo=java)
+![scylladb](https://img.shields.io/badge/scylladb-black?style=flat-square&logo=scylladb)
+![cassandra](https://img.shields.io/badge/cassandra-black?style=flat-square&logo=apache-cassandra)
+![svelte](https://img.shields.io/badge/svelte-black?style=flat-square&logo=svelte)
+![sveltekit](https://img.shields.io/badge/sveltekit-black?style=flat-square&logo=svelte)
+![nuxt.js](https://img.shields.io/badge/nuxt.js-black?style=flat-square&logo=nuxt.js)
+![tensorflow](https://img.shields.io/badge/tensorflow-black?style=flat-square&logo=tensorflow)
+![pytorch](https://img.shields.io/badge/pytorch-black?style=flat-square&logo=pytorch)
+![bcrypt](https://img.shields.io/badge/bcrypt-black?style=flat-square&logo=lock)
+![argon2](https://img.shields.io/badge/argon2-black?style=flat-square&logo=lock)
 
 ### DevOps & Tools
 
