@@ -17,6 +17,7 @@
 ### Languages
 
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
+![typescript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
