@@ -3,7 +3,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/Crypticelo"/>
   </a>
   <a href="https://github.com/Crypticelo?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/Crypticelo"/>
+    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/Crypticelo"/>
   </a>
   <a href="https://github.com/Crypticelo?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Crypticelo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -17,7 +17,7 @@
 ### Languages
 
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![typescript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
+![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
@@ -86,7 +86,7 @@
 ![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
 ![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
 ![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
-![scallydb](https://img.shields.io/badge/scylladb-black?style=flat-square&logo=scylladb)
+![scylladb](https://img.shields.io/badge/scylladb-black?style=flat-square&logo=scylladb)
 ![firebase](https://img.shields.io/badge/firebase-black?style=flat-square&logo=firebase)
 ![gradle](https://img.shields.io/badge/gradle-black?style=flat-square&logo=gradle)
 ![maven](https://img.shields.io/badge/maven-black?style=flat-square&logo=maven)
