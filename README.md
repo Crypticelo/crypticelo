@@ -8,7 +8,7 @@
   <a href="https://github.com/Crypticelo?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Crypticelo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Crypticelo/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Crypticelor&style=for-the-badge&color=lightgrey"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Crypticelo&style=for-the-badge&color=lightgrey"/>
   </a>
 </p>
 
